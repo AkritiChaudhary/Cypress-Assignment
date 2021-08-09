@@ -1,0 +1,10 @@
+{
+    "todayDeal": {
+        "scrollDownThePage": "scrolldown",
+        "thirdDeal": "#3e5c7cb6"
+    },
+    "clickThirdProduct": {
+        "thirdProduct": ":nth-child(4) > .a-list-item > .octopus-dlp-asin-section > .a-spacing-base > .a-link-normal > .a-section",
+        "quantity": "#quantity"
+    }
+}
